@@ -6,3 +6,7 @@ body {
     border: 2px solid black;
     background-color: lightgray;
 }
+
+.navbar-nav  {
+    justify-content: end;
+}

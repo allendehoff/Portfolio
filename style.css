@@ -7,3 +7,11 @@ body {
     background-color: lightgray;
 }
 
+header{
+    margin-bottom: 10px;
+}
+
+.contactform {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}

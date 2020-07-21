@@ -9,7 +9,6 @@ h1 {
 }
 
 .container {
-    /* border: 2px solid black; */
     background-color: lightgray;
 }
 
@@ -48,30 +47,6 @@ header{
 .footer .container {
     background-color: #f5f5f5;
 }
-
-/* #projectOne {
-    background-image: url(assets/code.jpg);
-}
-
-#projectTwo {
-    background-image: url(assets/moab.jpg);
-}
-
-#projectThree {
-    background-image: url(assets/computerphone.jpg);
-}
-
-#projectFour {
-    background-image: url(assets/deer.jpg);
-}
-
-#projectFive {
-    background-image: url(assets/airpods.jpg);
-}
-
-#projectSix {
-    background-image: url(assets/nightsky.jpg);
-} */
 
 .contactform {
     padding-top: 10px;

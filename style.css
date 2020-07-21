@@ -11,6 +11,37 @@ header{
     margin-bottom: 50px;
 }
 
+.project {
+    text-align: center;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    size: 200px 200px;
+}
+
+/* #projectOne {
+    background-image: url(assets/code.jpg);
+}
+
+#projectTwo {
+    background-image: url(assets/moab.jpg);
+}
+
+#projectThree {
+    background-image: url(assets/computerphone.jpg);
+}
+
+#projectFour {
+    background-image: url(assets/deer.jpg);
+}
+
+#projectFive {
+    background-image: url(assets/airpods.jpg);
+}
+
+#projectSix {
+    background-image: url(assets/nightsky.jpg);
+} */
+
 .contactform {
     padding-top: 10px;
     padding-bottom: 20px;
